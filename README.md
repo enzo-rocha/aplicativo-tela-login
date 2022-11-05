@@ -1,4 +1,4 @@
-# sign_up_app
+# Tela de Login
 
 Projeto que simula design de uma tela de login.
 
